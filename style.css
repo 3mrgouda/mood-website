@@ -91,6 +91,8 @@ header{
 .content{
     margin: 30px;
     color: #fff;
+    background-image: linear-gradient(#50052e,rgb(43, 1, 37));
+
     h2{
         font-size: 20px;
         padding: 20px;
